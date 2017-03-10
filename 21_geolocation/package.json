@@ -1,0 +1,14 @@
+{
+  "name": "21_geolocation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start" : "browser-sync start --directory --server --files '*.css, *.html, *.js' --https"
+  },
+  "author": "AnnMarie Torres",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.8"
+  }
+}
